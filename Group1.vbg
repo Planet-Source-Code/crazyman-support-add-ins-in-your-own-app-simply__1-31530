@@ -1,0 +1,4 @@
+VBGROUP 5.0
+StartupProject=Project1.vbp
+Project=vbCustomAddin.vbp
+Project=TestAddin.vbp
